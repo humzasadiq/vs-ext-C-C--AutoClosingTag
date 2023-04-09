@@ -1,10 +1,16 @@
 {
-  "name": "c-cpp-semicolon",
-  "displayName": "c-cpp-semicolon",
-  "description": "",
-  "version": "0.0.1",
+  "name": "c-cpp-autosemicolon",
+  "displayName": "C/C++AutoClosingTag",
+  "description": "Auto Close the closing tag ; after each appropriate line in C/C++.",
+  "publisher": "hamzasadiq",
+  "version": "0.0.7",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humzasadiq/vs-ext-C-C--AutoClosingTag"
   },
   "categories": [
     "Other"
