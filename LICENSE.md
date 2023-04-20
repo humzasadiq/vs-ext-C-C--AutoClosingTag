@@ -76,7 +76,6 @@ You may charge any price or no price for each copy that you convey, and you may 
 
 5. Conveying Modified Source Versions.
 You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 4, provided that you also meet all of these conditions:
-
 a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
 b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7. This requirement modifies the requirement in section 4 to “keep intact all notices”.
 c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
@@ -181,6 +180,9 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY C
 
 17. Interpretation of Sections 15 and 16.
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
+
+18. disclaimer of liability.
+The owner/author of this application shall not be held responsible for any damages whatsoever caused by the use of this application.
 
 END OF TERMS AND CONDITIONS
 
