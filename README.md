@@ -3,7 +3,7 @@
 This is an extension for Visual Studio Code which adds the closing tag **;** for C/C++ on format menu.  
 Better productivity.  
 Adds missing closing tags.  
-To install search for **"C/C++AutoClosingTag"** in VS-Code Extensions.  
+To install search for **"C/C++AutoClosingTag"** in VS-Code Extensions.  OR [Link](https://marketplace.visualstudio.com/items?itemName=hamzasadiq.c-cpp-autosemicolon)
 
 ![Alttext](https://github.com/humzasadiq/vs-ext-C-C--AutoClosingTag/blob/main/ezgif.com-video-to-gif.gif)  
   
