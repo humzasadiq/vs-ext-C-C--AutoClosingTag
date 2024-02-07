@@ -1,5 +1,5 @@
 # vs-ext-C-C++-AutoClosingTag
-
+## [Project Discontinued]
 This is an extension for Visual Studio Code which adds the closing tag **;** for C/C++ on format menu.  
 Better productivity.  
 Adds missing closing tags.  
